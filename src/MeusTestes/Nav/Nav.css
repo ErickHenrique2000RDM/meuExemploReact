@@ -1,0 +1,9 @@
+.itemMenu{
+    border: 1px solid  #333;
+    border-radius: 3px;
+    font-size: 1.5rem;
+    background:darkorange;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 3px;
+}
